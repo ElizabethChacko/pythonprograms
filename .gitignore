@@ -1,0 +1,29 @@
+
+# --- Python Bytecode Files ---
+*.py[cod]
+
+# --- Log Files ---
+*.log
+
+# --- Coverage Reports ---
+*.coverage
+
+# --- Test Output Files ---
+*.test_output
+
+# --- Python Cache & Compiled Files ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Virtual Environments ---
+venv/
+env/
+
+# --- Jupyter Notebook ---
+# Keep source .ipynb files, ignore checkpoints
+.ipynb_checkpoints/
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
