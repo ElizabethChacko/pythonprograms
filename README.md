@@ -16,17 +16,20 @@ This repository contains a variety of Python programs and Jupyter notebooks for 
 1.Clone the repository:
     ```bash
     git clone https://github.com/ElizabethChacko/pythonprograms.git
+
     cd PYTHONPROGRAMS
+
 2. Install dependencies
     pip install -r requirements.txt
+    
 3.Run the program
     python src/basicprograms
 
-Requirements
+## Requirements
     See requirements.txt.
 
-License
+## License
     This project is licensed under the MIT License.
-    
-Contributing
+
+## Contributing
     See CONTRIBUTING.md.
