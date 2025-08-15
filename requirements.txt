@@ -1,17 +1,13 @@
-
 # Install with: pip install -r requirements.txt
 
-# Required for running Python scripts (3.8+ recommended)
-    python_version >= "3.8"
-
 # --- Data Analysis & Computation ---
-    numpy>=1.23.0        # Numerical computing and array operations
-    pandas>=1.5.0        # Data handling, manipulation, and analysis
+numpy>=1.23.0
+pandas>=1.5.0
 
 # --- Plotting & Visualization ---
-    matplotlib>=3.6.0    # 2D plotting and visualization
-    seaborn>=0.12.0      # Statistical data visualization built on matplotlib
+matplotlib>=3.6.0
+seaborn>=0.12.0
 
 # --- Utility Tools ---
-    jupyter>=1.0.0       # For running and sharing Jupyter notebooks
-    notebook>=6.5.0      # Required for launching Jupyter notebook server
+jupyter>=1.0.0
+notebook>=6.5.0
